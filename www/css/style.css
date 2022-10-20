@@ -45,17 +45,21 @@
     
     #btnA {
         background-color: yellow;
-        color: green;
+        color: black;
         font-size: 20px;
         position:absolute; top:380px; left:0%; width:33%; height:60px; 
     }
     
     #btnB {
+        background-color: yellow;
+        color: black;
         font-size: 20px;
         position:absolute; top:380px; left:33%; width:33%; height:60px; 
     }
 
     #btnC {
+        background-color: yellow;
+        color: black;
         font-size: 20px;
         position:absolute; top:380px; left:66%; width:33%; height:60px; 
     }
